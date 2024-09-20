@@ -1,0 +1,125 @@
+@font-face {
+  font-family: font2;
+  src: url(./custom-font/GreatVibes-Regular.ttf);
+}
+@font-face {
+  font-family: font1;
+  src: url(./custom-font/carolingia.ttf);
+}
+.font-prime1 {
+  font-family: font1;
+  letter-spacing: 1px;
+}
+.font-prime2 {
+  font-family: font2;
+  letter-spacing: 4px;
+}
+
+.h1-shadow {
+  text-shadow: 2px 2px black;
+}
+
+div > ul a:hover {
+  text-shadow: 1px 1px black;
+  color: #ffc107 !important;
+}
+
+.title-bg-img {
+  background-image: url("./images/cover3.jpg");
+  background-size: 100% 100%;
+}
+
+.img-cards {
+  background-size: cover;
+}
+
+.h2-title-span {
+  color: #198754 !important;
+  text-shadow: 2px 2px #ffc107;
+}
+
+.h2-title {
+  color: #fff !important;
+}
+
+.map-center {
+  display: flex;
+  justify-content: center;
+}
+
+.footer-bg-img {
+  background-image: url("./images/footer.png");
+  background-size: cover;
+}
+
+.contact-links:hover {
+  text-shadow: 1px 1px black;
+  color: #ffc107 !important;
+}
+
+.contact-numbers {
+  text-shadow: 1px 1px black;
+  color: white !important;
+}
+
+.dept {
+  height: 70px;
+  border-radius: 1rem;
+}
+
+.admin {
+  background-color: blue;
+  max-width: 50vw;
+}
+
+.jhs {
+  background-color: red;
+  max-width: 50vw;
+}
+
+.shs {
+  background-color: white;
+  max-width: 50vw;
+}
+
+.gradeschool {
+  background-color: yellow;
+  max-width: 50vw;
+}
+
+.preschool {
+  background-color: green;
+  max-width: 50vw;
+}
+
+.maintenance {
+  background-color: violet;
+  max-width: 50vw;
+}
+
+/* Google Font */
+.pt-sans-regular {
+  font-family: "PT Sans", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.pt-sans-bold {
+  font-family: "PT Sans", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.pt-sans-regular-italic {
+  font-family: "PT Sans", sans-serif;
+  font-weight: 400;
+  font-style: italic;
+}
+
+.pt-sans-bold-italic {
+  font-family: "PT Sans", sans-serif;
+  font-weight: 700;
+  font-style: italic;
+}
+
+/* ************************************ */
